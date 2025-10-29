@@ -1,10 +1,6 @@
 Depricated use [csv import plus](https://github.com/athulkrishna2015/csv-import-plus)
 
-https://ankiweb.net/shared/info/1776942606
-
-### AnkiWeb description
-A focused tool to turn CSV into notes with fewer clicks, featuring delimiter auto‑detection, optional header handling, smart note‑type selection, and instant subdeck creation under the currently selected deck.[11]
-Use the streamlined dialog to paste CSV, confirm the target deck and note type, and either Quick Import directly or open Anki’s default Import window for full control.[11]
+## [csv to subdeck](https://ankiweb.net/shared/info/1776942606)
 
 #### Features
 - Paste CSV content directly into a dedicated dialog with clear status feedback on delimiter, row count, and detected note type.[11]
