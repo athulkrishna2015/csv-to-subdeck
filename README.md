@@ -1,3 +1,5 @@
+Depricated use [csv import plus](https://github.com/athulkrishna2015/csv-import-plus)
+
 https://ankiweb.net/shared/info/1776942606
 
 ### AnkiWeb description
